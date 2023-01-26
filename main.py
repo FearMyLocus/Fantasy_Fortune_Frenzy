@@ -21,7 +21,7 @@ print("4.) Quiz Game\n")
 while True:
     answr = input(name + " What Will You Pick..: ")
     if answr == "1":
-        import calc as calc
+        import calculator as calculator
     elif answr == "2":
         import RockPaperScissors as RockPaperScissors
     elif answr == "3":
